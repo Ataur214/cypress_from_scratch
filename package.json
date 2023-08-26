@@ -1,0 +1,22 @@
+{
+  "name": "cypressfromscratch",
+  "version": "1.0.0",
+  "description": "this is a cypress automation framework from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ataur214/cypress_from_scratch.git"
+  },
+  "author": "rahaman.ataure@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ataur214/cypress_from_scratch/issues"
+  },
+  "homepage": "https://github.com/Ataur214/cypress_from_scratch#readme",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
